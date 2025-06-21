@@ -14,6 +14,11 @@ A simple and scalable URL shortener built using Python, Flask, Google Cloud Func
 
 ---
 
+## 📸 Project Screenshot
+![Home Page](assets/home.png)
+![Short URL Result](assets/result.png)
+--
+
 ## 🧠 Tech Stack
 
 - Python 3.x
