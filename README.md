@@ -1,4 +1,4 @@
-# 🔗 URL Shortener (Python + Google Cloud Functions + Firestore)
+# 🔗 URL Shortener (Python + Google Cloud Functions + Firestore + Google Cloud Storage)
 
 A simple and scalable URL shortener built using Python, Flask, Google Cloud Functions, and Firestore. It allows creating short URLs and automatically redirects to the original long URLs.
 
